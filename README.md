@@ -7,7 +7,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/shreyas-a/mario.svg)](https://github.com/shreyas-a/mario/graphs/contributors)
 
 
-A game for namesake. Actual reason is to demonstrate modern web tech stack.
+A game for namesake. Actual reason is to demonstrate modern web tech stack..
 </div>
 
 ##
